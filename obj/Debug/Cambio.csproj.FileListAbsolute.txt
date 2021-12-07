@@ -1,0 +1,10 @@
+C:\Users\acerv\OneDrive\Desktop\Cambio\bin\Debug\Cambio.exe.config
+C:\Users\acerv\OneDrive\Desktop\Cambio\bin\Debug\Cambio.exe
+C:\Users\acerv\OneDrive\Desktop\Cambio\bin\Debug\Cambio.pdb
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.csproj.AssemblyReference.cache
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.Form1.resources
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.Properties.Resources.resources
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.csproj.GenerateResource.cache
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.csproj.CoreCompileInputs.cache
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.exe
+C:\Users\acerv\OneDrive\Desktop\Cambio\obj\Debug\Cambio.pdb
